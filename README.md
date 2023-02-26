@@ -55,6 +55,10 @@ Pacote com funcionalidades para o console do devtools (browser)
 interpolação de dados
 
 
+
+[Visite o projeto online] (https://fabiano2022.github.io/Projeto-NLW-SETUP/) 
+
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/szgdFtUrVlDQiJBp4VROMJ/Jogo-Adivinha%C3%A7%C3%A3o-(Copy)?t=oENxnymwRihqVKVQ-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
